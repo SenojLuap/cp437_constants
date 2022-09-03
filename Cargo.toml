@@ -1,10 +1,12 @@
 [package]
 name = "cp437_constants"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Paul Jones"]
 description = "Defined constants covering the entirety of ASCII code page 437 (https://en.wikipedia.org/wiki/Code_page_437)"
 readme = "README.md"
+license = "MIT"
 license-file = "license.txt"
+documentation = "https://docs.rs/cp437_constants/"
 homepage = "https://github.com/SenojLuap/cp437_constants"
 repository = "https://github.com/SenojLuap/cp437_constants"
